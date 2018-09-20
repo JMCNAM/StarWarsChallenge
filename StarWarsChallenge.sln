@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsChallenge", "StarWarsChallenge\StarWarsChallenge.csproj", "{0059352A-5503-4333-88E3-B527EEF0A1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{895FB31B-1345-4E06-9B20-416EB4E2D815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0059352A-5503-4333-88E3-B527EEF0A1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0059352A-5503-4333-88E3-B527EEF0A1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0059352A-5503-4333-88E3-B527EEF0A1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0059352A-5503-4333-88E3-B527EEF0A1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895FB31B-1345-4E06-9B20-416EB4E2D815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895FB31B-1345-4E06-9B20-416EB4E2D815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895FB31B-1345-4E06-9B20-416EB4E2D815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895FB31B-1345-4E06-9B20-416EB4E2D815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5157D6C4-A038-4ABC-8CCC-21B0F3ECF0EA}
+	EndGlobalSection
+EndGlobal
